@@ -1,2 +1,2 @@
 # eks-tf
-eks provision using terraform
+EKS provisioning using terraform 
